@@ -10,3 +10,10 @@ Here are some of the programming languages and tools I am proficient in:
 Here are the badges I have received for my contributions to the developer community:
 
 [![An image of @g0v1ndd3v's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/g0v1ndd3v)](https://holopin.io/@g0v1ndd3v)
+
+---
+
+<div align="center">
+    <h3>Quote of the Day</h3>
+    <img src="https://github.com/G0v1ndD3v/DevQuote-inator/blob/main/quoteImage.png" alt="QOTD">
+</div>
